@@ -1,0 +1,60 @@
+#p1{
+    background : grey;
+    border: 1px solid black;
+    width: auto;
+     height: auto;
+margin-top : 10px;
+padding-top: 20px;
+
+}
+ #p2{
+   background : grey;
+   border: 1px solid black;
+   width: auto;
+   height: auto;
+margin-top : 10px;
+padding-top: 20px;
+}
+#p3{
+	background : grey;
+    border: 1px solid black;
+    width: auto;
+    height: auto;
+margin-top :10px;
+    padding-top: 20px;
+
+}
+.row{
+	margin-top :30px;
+	position : relative;
+}
+body{
+	color: black;
+}
+.chicken, .beef, .sushi{
+     height: 20px;
+     width: 100px;
+      right: 15px;
+      top: 0px;
+     position : absolute;
+     border: 1px solid black;
+     text-align: center;
+}
+.chicken{
+      background: salmon;
+      color: black;
+      font: bold;
+}
+.beef{
+	background : indianred;
+	color: white;
+	font: bold;
+}
+.sushi{
+	background : khaki;
+	color:black;
+	font: bold;
+}
+h1{
+	text-align: center;
+}
