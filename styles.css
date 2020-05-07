@@ -1,0 +1,60 @@
+# p1 {
+    fond : gris ;
+    frontière : 1px solide  noir ;
+    largeur : auto ;
+     hauteur : auto ;
+margin-top : 10 pixels;
+rembourrage-dessus : 20px;
+
+}
+ # p2 {
+   fond : gris ;
+   frontière : 1px solide  noir ;
+   largeur : auto ;
+   hauteur : auto ;
+margin-top : 10 pixels;
+rembourrage-dessus : 20px;
+}
+# p3 {
+	fond : gris ;
+    frontière : 1px solide  noir ;
+    largeur : auto ;
+    hauteur : auto ;
+margin-top : 10 pixels;
+    rembourrage-dessus : 20px;
+
+}
+. ligne {
+	margin-top : 30 pixels;
+	position : relative ;
+}
+corps {
+	couleur : noir;
+}
+. poulet , . boeuf , . sushi {
+     hauteur : 20 px ;
+     largeur : 100 px ;
+      à droite : 15 px ;
+      en haut : 0 px ;
+     position : absolue ;
+     frontière : 1px solide  noir ;
+     alignement du texte : centre ;
+}
+. poulet {
+      fond : saumon;
+      couleur : noir;
+      police : gras;
+}
+. boeuf {
+	fond : indianred ;
+	couleur : blanc ;
+	police : gras ;
+}
+. sushi {
+	fond : kaki ;
+	couleur : noir ;
+	police : gras ;
+}
+h1 {
+	alignement du texte : centre;
+}
